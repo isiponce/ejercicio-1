@@ -2,6 +2,7 @@
 
 ejercicio para empezar a ocupar GitHub
 hola
-chao
+Buena vida
 
-mas cambios
+mas cambios y menos xd
+lol
