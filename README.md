@@ -2,5 +2,4 @@
 
 ejercicio para empezar a ocupar GitHub
 hola
-jlkj
-sdfgdfg
+chao
